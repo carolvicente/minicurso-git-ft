@@ -3,7 +3,7 @@
 
 Duração: 2:30 hrs
 
-* Oi, eu sou o João e eu sou a Carol 
+* Vamos nos apresentar :)
 * O que é o Git? 
 
 Git é um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos na qual diversas pessoas podem contribuir simultaneamente no mesmo, editando e criando novos arquivos e permitindo que os mesmos possam existir sem o risco de suas alterações serem sobrescritas.
@@ -34,18 +34,18 @@ Se não houver um sistema de versão, imagine o caos entre duas pessoas abrindo 
 
 * Teoria:
 
-Untracked :
+- Untracked :
 Arquivo não mapeado pelo Git.  
 O Git está vendo um arquivo que não existia na última captura (commit);  
 Git não vai incluí-lo nas suas capturas de commit até que você o diga explicitamente que assim o faça.  
 
-Unmodified : 
+- Unmodified : 
 Nenhum arquivo foi modificado na branch atual.  
 
-Modified : 
+- Modified : 
 Há arquivos modificados na branch atual.  
 
-Staged : 
+- Staged : 
 O Arquivo foi selecionado para o próximo commit.  
 
 * Comando git status . 
@@ -57,7 +57,8 @@ O Git permite criar uma linha independente de desenvolvimento no seu projeto. Is
 
 * Criar nova branch :
 git branch testing   
-Mudar de branch   
+
+* Mudar de branch   
 git checkout "nome_da_branch" . 
 
 * Tudo em um : ou git checkout -b "nome_da_nova_branch" . 
