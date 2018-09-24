@@ -4,17 +4,27 @@
 Duração: 2:30 hrs 
 
 * Vamos nos apresentar :) 
+
 * O que é o Git? 
 
 Git é um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos na qual diversas pessoas podem contribuir simultaneamente no mesmo, editando e criando novos arquivos e permitindo que os mesmos possam existir sem o risco de suas alterações serem sobrescritas.
 
 Se não houver um sistema de versão, imagine o caos entre duas pessoas abrindo o mesmo arquivo ao mesmo tempo. Uma das aplicações do git é justamente essa, permitir que um arquivo possa ser editado ao mesmo tempo por pessoas diferentes. Por mais complexo que isso seja, ele tenta manter tudo em ordem para evitar problemas para nós desenvolvedores.
 
+* Git x Github
 
+Github é um site onde você pode subir seus projetos e compartilhar com o mundo. E você vai subir eles lá usando o Git.  
+A grande maioria dos projetos open source estão hospedados no Github, inclusive o código do Git está lá no Github também.  
+Você pode usar o Github como portifólio do seu código e outras pessoas podem ver seus projetos e baixá-los. 
+Dá pra participar de projetos open source e seguir outros desenvolvedores conhecidos por lá pra ver o que eles estão fazendo.  É tipo uma rede social para pessoas que programam :)  
+
+Existem outros sites onde você pode subir seus projetos com Git, como o Gitlab e o Bitbucket.
+
+Veja quem usa o github!
 [Blizzard](https://github.com/Blizzard)  
-[Twitter](https://github.com/twitter)
-[Facebook](https://github.com/facebook)
-[Google](https://github.com/google)
+[Twitter](https://github.com/twitter)  
+[Facebook](https://github.com/facebook)  
+[Google](https://github.com/google)  
 
 
 [Colinha de Comandos!](https://github.com/carolvicente/minicurso-git-ft/blob/master/Git-SheetCheet.pdf)
