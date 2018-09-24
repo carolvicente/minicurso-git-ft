@@ -1,14 +1,20 @@
 # Minicurso de Git - Semana da Tecnologia em Foco 2018
 
 
-Duração: 2:30 hrs
+Duração: 2:30 hrs 
 
-* Vamos nos apresentar :)
+* Vamos nos apresentar :) 
 * O que é o Git? 
 
 Git é um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos na qual diversas pessoas podem contribuir simultaneamente no mesmo, editando e criando novos arquivos e permitindo que os mesmos possam existir sem o risco de suas alterações serem sobrescritas.
 
 Se não houver um sistema de versão, imagine o caos entre duas pessoas abrindo o mesmo arquivo ao mesmo tempo. Uma das aplicações do git é justamente essa, permitir que um arquivo possa ser editado ao mesmo tempo por pessoas diferentes. Por mais complexo que isso seja, ele tenta manter tudo em ordem para evitar problemas para nós desenvolvedores.
+
+
+[Blizzard](https://github.com/Blizzard)  
+[Twitter](https://github.com/twitter)
+[Facebook](https://github.com/facebook)
+[Google](https://github.com/google)
 
 
 [Colinha de Comandos!](https://github.com/carolvicente/minicurso-git-ft/blob/master/Git-SheetCheet.pdf)
@@ -34,8 +40,6 @@ Se não houver um sistema de versão, imagine o caos entre duas pessoas abrindo 
  
 ### Git Status 
 
-* Teoria:
-
 - Untracked :
 Arquivo não mapeado pelo Git.  
 O Git está vendo um arquivo que não existia na última captura (commit);  
@@ -50,11 +54,11 @@ Há arquivos modificados na branch atual.
 - Staged : 
 O Arquivo foi selecionado para o próximo commit.  
 
-* Comando git status . 
+* git status 
 
-### Criação de Branches . 
+### Criação de Branches 
 
-* Teoria: 
+
 O Git permite criar uma linha independente de desenvolvimento no seu projeto. Isto permite alterações em partes específicas do software sem comprometer o restante do projeto. Essas linhas independentes são chamadas de branches. 
 
 * Criar nova branch :
