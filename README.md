@@ -50,6 +50,8 @@ Veja quem usa o github!
  
 ### Git Status 
 
+![git status](https://git-scm.com/figures/18333fig0201-tn.png)
+
 - Untracked :
 Arquivo não mapeado pelo Git.  
 O Git está vendo um arquivo que não existia na última captura (commit);  
