@@ -67,8 +67,11 @@ git checkout "nome_da_branch" .
 
 ### Criação de um Commit
 
-git add * , git add, git commit, git commit amend . 
-git push . 
+Um commit pode ser interpretado como um pacote de modificações!  
+git add * ou git add  
+git commit  
+git commit amend    
+git push 
 
 ### Fazendo um merge
 
