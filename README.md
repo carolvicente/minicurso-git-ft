@@ -11,6 +11,8 @@ Git é um sistema de controle de versão de arquivos. Através deles podemos des
 Se não houver um sistema de versão, imagine o caos entre duas pessoas abrindo o mesmo arquivo ao mesmo tempo. Uma das aplicações do git é justamente essa, permitir que um arquivo possa ser editado ao mesmo tempo por pessoas diferentes. Por mais complexo que isso seja, ele tenta manter tudo em ordem para evitar problemas para nós desenvolvedores.
 
 
+[Colinha de Comandos!](https://github.com/carolvicente/minicurso-git-ft/blob/master/Git-SheetCheet.pdf)
+
 # Vamos começar!
 
 ### Configurações Iniciais
@@ -18,8 +20,8 @@ Se não houver um sistema de versão, imagine o caos entre duas pessoas abrindo 
 * Cadastro no Github
 * Install Git no Desktop   https://git-scm.com/downloads
 * Configuração do Git : 
-	git config --[option] user.name "seu_nome" . 
-	git config --[option] user.email "seu email" . 
+	git config --[option] user.name "seu_nome"    
+	git config --[option] user.email "seu email"   
 
 	option : global ou local . 
 
