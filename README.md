@@ -20,7 +20,7 @@ Dá pra participar de projetos open source e seguir outros desenvolvedores conhe
 
 Existem outros sites onde você pode subir seus projetos com Git, como o Gitlab e o Bitbucket.
 
-Veja quem usa o github!
+Veja quem usa o github!  
 [Blizzard](https://github.com/Blizzard)  
 [Twitter](https://github.com/twitter)  
 [Facebook](https://github.com/facebook)  
