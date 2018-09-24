@@ -17,7 +17,7 @@ Se não houver um sistema de versão, imagine o caos entre duas pessoas abrindo 
 
 ### Configurações Iniciais
 
-* Cadastro no Github
+* Cadastro no Github  https://github.com/
 * Install Git no Desktop   https://git-scm.com/downloads
 * Configuração do Git : 
 	git config --[option] user.name "seu_nome"    
