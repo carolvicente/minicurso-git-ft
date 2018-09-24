@@ -106,7 +106,10 @@ O Colega 1 pegas as alterações do Colega 2.
 Performa as ações de commit e de merge na master.  
 
 [Dinâmica - 3]
-Cada um cria uma branch sua, e com arquivos diferentes.  
-O Colega 1 pegas as alterações do Colega 2, e faz modificações nesse arquivo.  
-Colega 2 atualiza seu repositório, faz o merge da Branch do Colega 1, vê que tem conflitos, resolve os conflitos.  
-Colega 2 performa as ações de commit e de merge na master. 
+Atualizem todas as branches.  
+Em suas branches, cada um deve editar o mesmo arquivo.  
+X colega 1 deve commitar, e mergear suas mudanças na master.  
+X colega 2 deve ir na master, atualizar ela, e ir de volta para a sua branch.  
+ Editar esse arquivo “não atualizado”, commitar, e antes do push, realizar um merge com a master.  
+BOOM!  
+Vamos pro VsCode visualizar!  
